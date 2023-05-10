@@ -7,7 +7,7 @@ Hi i am Uday and i am in grade 6. Also i like to raed books sometimes.
     <body style="background-color:lightskyblue;text-align:;font-size:19px;color:navy">
      <form target="_blank" action="/form.php" method="GET" >
          <fieldset>
-             <legend style="font-size:23px;text-align:center;">subscripton form</legend>
+             <legend style="font-size:23px;text-align:center;">Subscripton Form</legend>
             
         Name
           <input type="text" name="fname" placeholder="First" required>
