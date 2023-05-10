@@ -9,7 +9,7 @@ Hi i am Uday and i am in grade 6. Also i like to raed books sometimes.
          <fieldset>
              <legend style="font-size:23px;text-align:center;">Subscripton Form</legend>
             
-        Name
+             <label> Name</label>
           <input type="text" name="fname" placeholder="First" required>
           
           <input type="text" name="lname" placeholder="Last" required><br><br>
